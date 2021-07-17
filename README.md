@@ -24,7 +24,7 @@ There are also other issues such as the following but they are out of the scope 
 - Continuous writing of multiple characters
 - International character sets, e.g. Hiragana and Kanji in Japanese
 
-This project has explored only the case of writing a single alphabet and number character with a fixed size(figure&palm motion). The result of the exploration is as follows.
+This project has explored only the case of writing a single alphabet and number character with a fixed size(figure&wrist motion). The result of the exploration is as follows.
 
 - Improved the detection of start and end of motion
 - Made sampling stable  by indicating the initial pen position by the LEDs 
