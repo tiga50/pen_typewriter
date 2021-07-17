@@ -35,7 +35,7 @@ This project has explored only the case of writing a single alphabet and number 
 ### Instruction
 #### Install and Run
 
-1. Install the [Arduino IDE ], build the sketch [pen_typewriter.ino](arduino/pen_typewriter.ino) and flash it on the Arduino Nano Sense 33 BLE
+1. Install the [Arduino IDE ](https://www.arduino.cc/en/software), build the sketch [pen_typewriter.ino](arduino/pen_typewriter.ino) and flash it on the Arduino Nano Sense 33 BLE
 2. Attache the Arudino Nano at the top of a pen as in the above movie. Note that the right orientation of the Arduino Nano is important
 2. Plug the Arduino Nano Sense 33 BLE into the USB port of a PC or Mac. The Arduino Nano will be recognized as a USB keyboard
 3. Open any kind of text editing application, e.g. Notepad on PC or TextEdit on Mac
