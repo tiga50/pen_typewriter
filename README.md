@@ -29,7 +29,7 @@ This project has explored only the case of writing a single alphabet and number 
 - Improved the detection of start and end of motion
 - Made sampling stable  by indicating the initial pen position by the LEDs 
 - Can not achieve accurate recognition in both number and alphabet, though there would be room to improve DNN network
-- Can support the recognition of the number characters but can not support the alphabet characters due to the limitation of the ROM size
+- Can support the recognition of the number characters but can not support the alphabet characters due to the limitation of the Flash ROM size
 
 --- 
 ### Instruction
