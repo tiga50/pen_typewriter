@@ -42,7 +42,7 @@ This project has explored only the case of writing a single alphabet and number 
 4. Hand the pen with the Arduino Nano with the right hand, then the red LED on the Arduino Nano will be flashing
 5. Stand the pen at the writing position, then the green LED will be flashing
 6. Hold the pen position until the green LED turns on
-7. Start writing a number character (0-9) with a size (around 2 inches) by moving your figure & wrist
+7. Start writing a number character (0-9) with the size around 2 inches by moving your figure & wrist
 8. The recognized character will be input on the application
 
 #### Train your DNN model and Run
