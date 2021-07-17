@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is my first project of developing a Deep Learning application. The [TensorFlow Microcontroller Challenge](https://experiments.withgoogle.com/tfmicrochallenge)  motivated me to start this project. After pondering an application with the combination of [Arduino Sense 33 BLE](https://store.arduino.cc/usa/nano-33-ble-sense "Arduino Store") and [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers "TFL4M"), I came up with an idea of Pen TypeWriter that recognizes the motion of pen writing and output a written character via USB-Keyboard I/F. I have developed the initial implementation of Pen TypeWrite. Though its recognition is not so accurate, I want to share my experience of this development. I wish I have such tiny pen which can be used as key input method of smartphones and a tablet in the future.
+This is my first project of developing a Deep Learning application. The [TensorFlow Microcontroller Challenge](https://experiments.withgoogle.com/tfmicrochallenge)  motivated me to start this project. After pondering an application with the combination of [Arduino Sense 33 BLE](https://store.arduino.cc/usa/nano-33-ble-sense "Arduino Store") and [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers "TFL4M"), I came up with an idea of Pen TypeWriter that recognizes the motion of pen writing and output a written character via USB-Keyboard I/F. I have developed the initial implementation of Pen TypeWriter. Though its recognition is not so accurate, I want to share my experience of this development. I wish I have such tiny pen which can be used as key input method of smartphones and a tablet in the future.
 
 --- 
 ### Project Description
